@@ -12,3 +12,4 @@ numpy==1.26.4
 protobuf==5.27.2
 sentencepiece==0.2.0
 pytest==8.2.2
+scikit-learn==1.5.1
